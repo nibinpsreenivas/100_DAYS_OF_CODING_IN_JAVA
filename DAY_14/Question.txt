@@ -1,0 +1,1 @@
+Get an input from the user and the print the reverse of the given number as the output
