@@ -1,0 +1,12 @@
+Here 1^4 + 6^4 + 3 ^4 + 4^4 = 1634
+
+Therefore, this is an Armstrong number
+
+Input
+
+153
+
+Output
+
+Armstrong number  
+
