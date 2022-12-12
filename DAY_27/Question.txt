@@ -1,0 +1,11 @@
+Description
+
+For the given input number calculate the double of it without using arithmetic operator.
+
+Input
+
+4
+
+Output
+
+8
