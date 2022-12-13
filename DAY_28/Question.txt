@@ -1,0 +1,12 @@
+ Write a Program to reverse a string.
+
+Description
+
+Get an input string from user and print it in reverse order.
+
+Input
+NITHIN
+
+Output
+
+NIHTIN
