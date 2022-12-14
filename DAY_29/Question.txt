@@ -1,0 +1,17 @@
+Description
+
+Get two strings as input from the user and then concatenate it.
+
+Input
+
+Enter first string
+
+Hello
+
+Enter second string
+
+Hi
+
+Output
+
+HelloHi
