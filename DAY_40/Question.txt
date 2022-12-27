@@ -1,0 +1,27 @@
+Description
+
+Get a string as input from the user and then get another string which has to be removed from the string.
+
+Get the third input, the new substring which is placed in that substring position.
+
+Finally print the output by replacing the substring with new string.
+
+Input
+
+Enter a string
+
+HELLOSIR
+
+Enter the substring to be removed :
+
+HELLO
+
+Enter the new substring :
+
+HAI
+
+Output
+
+The new string :
+
+HAISIR
