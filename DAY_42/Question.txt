@@ -1,0 +1,25 @@
+Description
+
+Get two arrays as the input from the user and check whether it is the same or not.
+
+Input
+
+Enter the size of first array :
+
+3
+
+Enter the size of second array :
+
+3
+
+Enter elements of first array :
+
+3 2 1
+
+Enter elements of second array :
+
+3 2 1
+
+Output
+
+Same
