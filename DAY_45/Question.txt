@@ -1,0 +1,22 @@
+Description
+
+Get an array as input from the user and then find the smallest and largest element in the array.
+
+Input
+
+Enter the size of array :
+
+5
+
+Enter the elements :
+10 30 70 20 40
+
+Output
+
+Smallest Number :
+
+10
+
+Largest Number :
+
+70
