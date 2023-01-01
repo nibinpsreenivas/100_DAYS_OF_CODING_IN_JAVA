@@ -1,0 +1,17 @@
+Description
+
+Get an array as the input from the user and find the sum of the elements.
+
+Input
+
+Enter the size of array
+
+5
+
+Enter the elements of array
+
+5 5 5 5 5
+
+Output
+
+25
