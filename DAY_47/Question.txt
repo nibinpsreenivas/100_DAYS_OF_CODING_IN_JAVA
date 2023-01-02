@@ -1,0 +1,16 @@
+Description
+
+Get an array as the input from the user and find the longest palindrome in that array.
+
+Input
+
+Enter the size of array
+
+4
+
+Enter the elements of array
+
+23 34 22 44
+
+Output
+44
