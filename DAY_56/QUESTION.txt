@@ -1,0 +1,10 @@
+Write Program to find whether the numbers of an array be made equal
+Input
+
+3
+
+50 75 150
+
+Output
+
+Yes
