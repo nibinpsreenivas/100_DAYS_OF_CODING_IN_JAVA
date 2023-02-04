@@ -1,0 +1,13 @@
+Sample Input 1
+
+2
+
+5 4
+
+15 6
+
+Sample Output 1
+
+1
+
+9
