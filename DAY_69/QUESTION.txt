@@ -1,0 +1,7 @@
+Create a class called Equilateral which inherits from Isosceles and should have a function such that the output is as given below.
+
+Sample Output
+
+I am an equilateral triangle
+
+I am an isosceles triangle I am a triangle
